@@ -1,4 +1,5 @@
-### Hi there, I'm Jon Santamaria👋
+### Hi. I'm Jon Santamaria👋
+<p style="border-top: solid 1px black">
 
 
 <h3 align="left">Languages and Tools:</h3>
