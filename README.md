@@ -1,5 +1,5 @@
 ### Hi. I'm Jon Santamaria👋
-<p style="border-top: solid 1px black">
+<p style="border-top: solid 1px black"></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
